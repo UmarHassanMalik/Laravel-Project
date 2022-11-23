@@ -1,6 +1,6 @@
 Laravel Create, Read, Update, Delete Operations.
 
-with livewire
-
+- livewire
+- Auth
 Project name:
- Vehicle Buy and Sell.
+Vehicle Buy and Sell.
